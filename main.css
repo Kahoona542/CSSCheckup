@@ -1,0 +1,27 @@
+body {
+    background-color: purple;
+}
+
+.milk {
+    margin: 10%;
+}
+
+p {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h1{
+    color: chocolate;
+    font-size: 100px;
+    text-align: center;
+}
+
+#cards {
+    color: red;
+    border-style: groove;
+    border-color: royalblue;
+    border-width: 5px;
+}
